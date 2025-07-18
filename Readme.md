@@ -1,6 +1,7 @@
 # Blind-75 Leetcode Solution In JS 🔥
 This repo contains solution for [Blind 75 Leetcode](https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions) questions solved using Javascript.
 
+NOTE: updated daily to track progress 
 
 | Problem | Solution | Category | Difficulty |
 | --------- | -------- | --------- | ---------- |
